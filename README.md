@@ -9,7 +9,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://youtube.com/c/ICHUTECH">Hisham-Muhammed</a> to make it public
+Project created by <a href="https://https://github.com/mammual/Sophia">mhdta</a> to make it public
     <br>
        | © |
         Reserved |
@@ -33,7 +33,7 @@ Project created by <a href="https://youtube.com/c/ICHUTECH">Hisham-Muhammed</a> 
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/G90s1pqZwAjJ7SjQzzqiXe)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/G90s1pqZwAjJzqiXe)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ameer-kallumthodi&repo=PublicBot&theme=nightowl)](https://github.com/ameer-kallumthodi/PublicBot)
@@ -61,7 +61,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/ameer-kallumthodi/pikachu
+$ git clone https://github.com/mammual/Sophia
 $ cd pikachu
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -71,7 +71,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/ameer-kallumthodi/pikachu
+$ git clone https://github.com/mammual/Sophia
 $ cd pikachu
 $ chmod +x *
 $ npm i
